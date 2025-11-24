@@ -1,0 +1,10 @@
+{
+  "projectAccessKey": "your-project-access-key",
+  "privateKey": "private-key-for-eoa",
+  "chainId": 13371,
+  "targetAddress": "0x0cEF1e91813467bFBaf6f2000634dcB4C86f6E7d",
+  "nodeUrl": "https://nodes.sequence.app/immutable-zkevm",
+  "relayerUrl": "https://immutable-zkevm-relayer.sequence.app",
+  "explorerUrl": "https://explorer.immutable.com/",
+  "directoryUrl": "https://keymachine.sequence.app"
+}
