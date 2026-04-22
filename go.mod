@@ -3,8 +3,8 @@ module v3-backend-transactions-go
 go 1.25.3
 
 require (
-	github.com/0xsequence/ethkit v1.38.6
-	github.com/0xsequence/go-sequence v0.60.26
+	github.com/0xsequence/ethkit v1.43.2
+	github.com/0xsequence/go-sequence v0.64.2
 )
 
 require (
@@ -29,7 +29,6 @@ require (
 	github.com/goware/cachestore v0.11.0 // indirect
 	github.com/goware/cachestore-mem v0.2.2 // indirect
 	github.com/goware/cachestore2 v0.12.3 // indirect
-	github.com/goware/calc v0.2.0 // indirect
 	github.com/goware/channel v0.5.0 // indirect
 	github.com/goware/logger v0.3.0 // indirect
 	github.com/goware/singleflight v0.3.0 // indirect
@@ -41,10 +40,9 @@ require (
 	github.com/supranational/blst v0.3.16 // indirect
 	github.com/tyler-smith/go-bip39 v1.1.0 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
-	golang.org/x/crypto v0.43.0 // indirect
-	golang.org/x/exp v0.0.0-20251009144603-d2f985daa21b // indirect
-	golang.org/x/net v0.46.0 // indirect
-	golang.org/x/sync v0.17.0 // indirect
-	golang.org/x/sys v0.37.0 // indirect
-	golang.org/x/text v0.30.0 // indirect
+	golang.org/x/crypto v0.49.0 // indirect
+	golang.org/x/net v0.51.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 )
